@@ -1,1 +1,2 @@
 # NTUYblocker4uBlacklist
+uBlacklistでネトウヨ系サイトとかアフィサイトをブロックするやつ

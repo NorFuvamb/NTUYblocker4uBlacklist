@@ -44,3 +44,8 @@
 *://*.news.antenam.biz/*
 *://*.mtmx.jp/*
 *://*.matome-plus.com/*
+*://*.wanisokuhou.com/*
+*://*.matome-corona.info/*
+*://*.jiwachan.net/*
+*://*.vipchnuru.com/*
+*://*.2chmatomesokuhou.com/*

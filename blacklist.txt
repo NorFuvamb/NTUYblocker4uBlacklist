@@ -49,3 +49,4 @@
 *://*.jiwachan.net/*
 *://*.vipchnuru.com/*
 *://*.2chmatomesokuhou.com/*
+*://*.alfalfalfa.com/*
